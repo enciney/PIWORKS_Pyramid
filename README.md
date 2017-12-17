@@ -21,6 +21,7 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 Q2. According to assignment in Q1 that you implemented what is the maximum sum of below input? It means please take this pyramid as an input (as file or constants directly inside the code) for your implementation and solve by using it.
 !!!Don't forget to think below file input as PYRAMID!!!
 (You can delete the space rows after the each row , Input must not consist the empty line)
+
 215
 
 193 124
