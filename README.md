@@ -51,3 +51,16 @@ Q2. According to assignment in Q1 that you implemented what is the maximum sum o
 223 626 034 683 839 53  627 310 713 999 629 817 410 121
 
 924 622 911 233 325 139 721 218 253 223 107 233 230 124 233
+
+
+
+
+
+*SOLUTION*
+
+Used only a basic Integer ArrayList for solution; 
+For reach each element of the Pyramid using a Tree algorithm  like DFS(Depth First Search ).
+Left and right side sub-pyramid root element is found with the index mapping and recursion is deployed for the each sub pyramid and 
+Algorithm each sub-recursion  returned the max sum of the sub_pyramid.
+
+
