@@ -59,8 +59,9 @@ Q2. According to assignment in Q1 that you implemented what is the maximum sum o
 *SOLUTION*
 
 Used only a basic Integer ArrayList for solution; 
-For reach each element of the Pyramid using a Tree algorithm  like DFS(Depth First Search ).
-Left and right side sub-pyramid root element is found with the index mapping and recursion is deployed for the each sub pyramid and 
-Algorithm each sub-recursion  returned the max sum of the sub_pyramid.
+
+-> For reach each element of the Pyramid using a Tree algorithm  like DFS(Depth First Search ).
+
+-> Left and right side sub-pyramid root element is found with the index mapping and recursion is deployed for the each sub pyramid and Algorithm each sub-recursion  returned the max sum of the sub_pyramid.
 
 
