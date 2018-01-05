@@ -6,8 +6,9 @@ public class Main {
 	public static void main(String[] args) {
 		Pyramid pyramid = new Pyramid();
 		pyramid.readFile(fileName);
-		System.out.println( pyramid.foundMaxSum());
-
+		System.out.println("\nresult : " + pyramid.foundMaxSum());
+		
+	
 	}
 	
 
